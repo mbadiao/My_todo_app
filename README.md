@@ -14,8 +14,6 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine :
 Clonez le dépôt et installez les dépendances nécessaires :
 
 ```bash
-git clone https://github.com/mbadiao/votre-repo.git
-cd votre-repo
+git clone https://github.com/mbadiao/My_todo_appgit
+cd My_todo_app
 npm install
-# ou si vous utilisez yarn
-yarn install
